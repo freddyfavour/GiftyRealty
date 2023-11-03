@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Max Vista",
+    "price": "1,200,200 for 600sqm",
+    "detail": "Akofo, Ido, Ibadan",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Max Heights",
+    "price": "1,000,000 for 300sqm",
+    "detail": "Ido, Ibadan",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Max Garden City",
+    "price": "700,000 for 600sqm",
+    "detail": "Odo-Ogun, Ibadan",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Max Beach-Front",
+    "price": "6,000,000 for 600sqm",
+    "detail": "Eleko, Ibeju-Lekki, Lagos",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Salvation Gardens",
+    "price": "3,000,000 for 600sqm",
+    "detail": "Odeomi Waterside, Lagos",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Max Garden",
+    "price": "900,000 for 300sqm",
+    "detail": "Agbowa, Ikorodu, Lagos",
+    "image": "./r3.png"
+  }
+]

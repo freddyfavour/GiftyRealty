@@ -1,0 +1,8 @@
+.p-container{
+    justify-content: space-around;
+    gap: 1rem;
+}
+
+.p-container img{
+    width: 9rem;
+}
